@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "My Dialogue System",
   "description": "A pop-up canvas dialogue system for Unity projects.",
-  "unity": "6",
+  "unity": "6000.2.10f1",
   "unityRelease": "0f1",
   "dependencies": {
     "com.unity.ugui": "1.0.0",

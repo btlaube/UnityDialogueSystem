@@ -1,0 +1,22 @@
+{
+  "name": "com.bifrostgames.dialoguesystem",
+  "version": "1.0.0",
+  "displayName": "My Dialogue System",
+  "description": "A pop-up canvas dialogue system for Unity projects.",
+  "unity": "6",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.textmeshpro": "3.0.0"
+  },
+  "keywords": [
+    "utility",
+    "tools"
+  ],
+  "author": {
+    "name": "BifrostGames",
+    "email": "contact@mycompany.com",
+    "url": "http://bifrostgames.org"
+  },
+  "license": "MIT"
+}
